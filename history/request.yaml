@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE06ISSM-RID16-07-NUTNRB000-telemetered-suna_dcl_recovered
-last_request: '2022-01-21T03:08:17.994795Z'
+last_request: '2022-01-21T18:50:58.811948Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-07-NUTNRB000-telemetered-suna_dcl_recovered/main/history/response.json
-status: success
+status: pending
